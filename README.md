@@ -10,7 +10,7 @@ Create an API key on cloudflare, giving it the following permissions:
 - Zone.Zone (Read) 
 - Zone.DNS (Edit)
 
-Add the API key to .cloudflare.cfg in the python folder
+Add the API key to `.cloudflare.cfg` in the python folder
 
 ```
 [CloudFlare]
